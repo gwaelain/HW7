@@ -132,7 +132,7 @@ def rewrite_file(path1=None, path2=None, path3=None):
 
 
 if __name__ == '__main__':
-    filename = "recipes.txt"
+    filename = "recips.txt"
     cook_book = read_cookbook()
     print('Задание 1------------------------------------------------------------')
     time.sleep(1)
